@@ -3508,28 +3508,28 @@ input[type=color] {
 }
 .tp-section-title.fs-140 {
   line-height: 0.89;
-  font-size: 140px;
+  font-size: 64px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px), only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-section-title.fs-140 {
-    font-size: 115px;
+    font-size: 48px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-section-title.fs-140 {
-    font-size: 100px;
+    font-size: 48px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .tp-section-title.fs-140 {
-    font-size: 75px;
+    font-size: 48px;
     letter-spacing: 0;
   }
 }
 @media (max-width: 767px) {
   .tp-section-title.fs-140 {
     letter-spacing: 0;
-    font-size: 65px;
+    font-size: 48px;
   }
 }
 .tp-section-title.fs-64 {
@@ -5654,7 +5654,7 @@ body.tp-magic-cursor #magic-cursor {
 .header-sticky.sticky-white-bg .logo-white {
   display: none;
 }
-.header-sticky.sticky-white-bg .logo-black {
+.header-sticky.sticky-white-bg .logo-vyberlab {
   display: block !important;
 }
 .header-sticky.sticky-white-bg .tp-header-lang a {
@@ -15906,7 +15906,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 .ar-about-us-4-title {
   color: #111013;
-  font-size: 100px;
+  font-size: 72px;
   font-weight: 800;
   line-height: 1;
   margin-bottom: 50px;
@@ -15915,12 +15915,12 @@ body.tp-magic-cursor #magic-cursor {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
   .ar-about-us-4-title {
-    font-size: 90px;
+    font-size: 72px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .ar-about-us-4-title {
-    font-size: 70px;
+    font-size: 64px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
@@ -18231,27 +18231,27 @@ body.tp-magic-cursor #magic-cursor {
   background-size: 100% 100%;
 }
 .creative-service-item.about-us-4 .creative-service-title {
-  font-size: 120px;
+  font-size: 64px;
   font-weight: 600;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .creative-service-item.about-us-4 .creative-service-title {
-    font-size: 105px;
+    font-size: 48px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .creative-service-item.about-us-4 .creative-service-title {
-    font-size: 110px;
+    font-size: 48px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .creative-service-item.about-us-4 .creative-service-title {
-    font-size: 80px;
+    font-size: 48px;
   }
 }
 @media (max-width: 767px) {
   .creative-service-item.about-us-4 .creative-service-title {
-    font-size: 70px;
+    font-size: 32px;
   }
 }
 .creative-service-item.about-us-4 .creative-service-title a {
