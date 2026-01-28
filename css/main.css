@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Vyber Labs
+    Template Name: vyber lab
     Author: Theme_Pure
     Support: https://help.themepure.net/support/
     Description: Template
@@ -5813,7 +5813,7 @@ body.tp-magic-cursor #magic-cursor {
   position: static;
 }
 .tp-header-dropdown nav ul li.has-dropdown::after {
-  content: "\f107";
+  content: "\21B4";
   font-size: 16px;
   font-weight: 400;
   margin-left: 2px;
@@ -23855,6 +23855,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 .dgm-testimonial-text {
   margin-bottom: 35px;
+  padding:0 30px;
 }
 .dgm-testimonial-text p {
   font-weight: 400;
